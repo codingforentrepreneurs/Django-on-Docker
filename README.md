@@ -3,4 +3,7 @@
 
 # Django on Docker
 
-This is the reference code for the post [here](https://www.codingforentrepreneurs.com/blog/django-on-docker-a-simple-introduction)
+This repo is for the reference code from [this post](https://www.codingforentrepreneurs.com/blog/django-on-docker-a-simple-introduction).
+
+
+Watch the tutorial on [youtube](https://youtu.be/KaSJMDo-aPs).
